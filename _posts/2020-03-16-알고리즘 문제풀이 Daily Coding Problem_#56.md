@@ -22,11 +22,8 @@ public class DailyCoding56 {
 //		Node 수
 		int k = 4;
 		int colorType = 2;
-//		??
-//		int[][] matrix = {{0,1,0,1},      // 0
-//						  {1,0,1,1},      // 1
-//						  {0,1,0,1},      // 2
-//						  {1,1,1,0}};     // 3
+
+		int[][] matrix = {{0,1,0,1},{1,0,1,1},{0,1,0,1},{1,1,1,0}};
 		boolean[] color = new boolean[colorType];
 		int[] paint = new int[k];
 		
