@@ -3,9 +3,6 @@
 
 
 Color (1 , 2 )로 구분 아예 칠할수 없는 Node는 -1
-	int[][] matrix = {{0,1,0,1},{1,0,1,1},{0,1,0,1}, {1,1,1,0}};
-
-이건 왜 에러나는지;    
 
 ```java
 package daily_Codiong;
