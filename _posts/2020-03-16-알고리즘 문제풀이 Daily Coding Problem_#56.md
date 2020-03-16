@@ -7,8 +7,6 @@ Color (1 , 2 )로 구분 아예 칠할수 없는 Node는 -1
 ```java
 package daily_Codiong;
 
-import java.util.Scanner;
-
 public class DailyCoding56 {
 
 //	Given an undirected graph represented as an adjacency matrix and an integer k,
@@ -24,10 +22,11 @@ public class DailyCoding56 {
 //		Node 수
 		int k = 4;
 		int colorType = 2;
-		int[][] matrix = {{0,1,0,1},      // 0
-						  {1,0,1,1},      // 1
-						  {0,1,0,1},      // 2
-						  {1,1,1,0}};     // 3
+//		??
+//		int[][] matrix = {{0,1,0,1},      // 0
+//						  {1,0,1,1},      // 1
+//						  {0,1,0,1},      // 2
+//						  {1,1,1,0}};     // 3
 		boolean[] color = new boolean[colorType];
 		int[] paint = new int[k];
 		
