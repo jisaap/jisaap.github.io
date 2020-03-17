@@ -18,11 +18,11 @@ public class DailyCoding56 {
         
 //		  0 ----1
 //		  |  /  |
-//        3-----2       
+//                3-----2       
 //		Node 수
 		int k = 4;
 		int colorType = 2;
-
+		int[][] matrix; //인접 행렬 2차원 배열 (Node 4)
 		boolean[] color = new boolean[colorType];
 		int[] paint = new int[k];
 		
