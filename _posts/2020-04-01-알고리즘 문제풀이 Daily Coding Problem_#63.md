@@ -27,10 +27,10 @@ public class DailyCoding63 {
 
 	public static void main(String[] args) {
 
-		char[][] matrix = {{'F', 'A', 'C', 'I'},
-				{'O', 'B', 'Q', 'P'},
-				{'A', 'N', 'O', 'B'},
-				{'M', 'A', 'S', 'S'}};
+//		char[][] matrix =   'F', 'A', 'C', 'I',
+//							'O', 'B', 'Q', 'P',
+//							'A', 'N', 'O', 'B',
+//							'M', 'A', 'S', 'S';
 		String targetWord = "MASS";
 		
 		System.out.println(checkWord(matrix, targetWord));
