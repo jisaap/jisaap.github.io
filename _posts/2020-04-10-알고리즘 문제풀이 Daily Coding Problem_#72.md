@@ -60,10 +60,10 @@ public class DailyCoding72 {
 	int n = 5;
 	int m = 4;
 	int[][] path = {{0, 1},
-	            			{0, 2},
-	            			{2, 3},
-	            			{3, 4}};
-	char[] nodes = {'A','B','A','C','A'};
+	            			0, 2,
+	            			2, 3,
+	            			3, 4;
+	char[] nodes = 'A','B','A','C','A';
 	
 
 		
