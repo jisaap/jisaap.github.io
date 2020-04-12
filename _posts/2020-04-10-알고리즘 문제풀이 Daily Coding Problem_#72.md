@@ -59,7 +59,7 @@ public class DailyCoding72 {
 //	Test Value
 	int n = 5;
 	int m = 4;
-	int[][] path = {{0, 1},
+	int[][] path =          0, 1,
 	            			0, 2,
 	            			2, 3,
 	            			3, 4;
