@@ -52,6 +52,7 @@ public class DailyCoding68 {
 //				arr[i][j] = sc.nextInt();
 //			}
 //		}
+        
 //		test Value
 		int[][] arr = 0,0,1,2,2,2,4,0;
 		
