@@ -53,7 +53,7 @@ public class DailyCoding68 {
 //			}
 //		}
 //		test Value
-		int[][] arr = {{0,0},{1,2},{2,2},{4,0}};
+		int[][] arr = 0,0,1,2,2,2,4,0;
 		
 		int[][] chessBoard = new int[m][m];
 
