@@ -61,7 +61,7 @@ public class DailyCoding76 {
 		int m = 3;
 		char[][]arr = new char[n][m];
 //		char[][] arr = 'c','b','a','d','a','f','g','h','i';
-//		char[][] arr = {{'z','y','x'},{'d','a','f'},{'g','h','i'}};
+//		char[][] arr = 'z','y','x','d','a','f','g','h','i';
 //		char[][] arr = 'a','b','c','d','e','f';
 
 		int num;
